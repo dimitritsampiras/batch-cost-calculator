@@ -1,0 +1,16 @@
+{
+  "name": "batch-cost-calculator",
+  "version": "1.0.0",
+  "description": "Calulates the total cost of csv order files.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dimitri Tsampiras",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "line-reader": "^0.4.0"
+  }
+}
